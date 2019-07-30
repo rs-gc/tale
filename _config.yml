@@ -8,14 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Minimal Jekyll theme for storytellers
+description: Blog for Pladio website
 baseurl: "/tale"
-url: https://chesterhow.github.io
+url: https://blog.pladio.co
 google_analytics: UA—XXXXXXXX-X
 author:
-  name: Chester How
-  url: https://chester.how
-  email: chesterhow@gmail.com
+  name: Pladio
+  url: https://pladio.co
+  email: sales@pladio.co
 markdown: kramdown
 include:
 - _pages
