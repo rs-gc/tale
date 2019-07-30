@@ -1,6 +1,13 @@
 ---
 title: Pladio Android app launched
 date: 2019-07-30 19:30:00 Z
+categories:
+- android
+- chrome
+tags:
+- audio
+- pladio
+- play audio
 ---
 
 Today, we have launched the pladio android app. Download the android app from the play store. Here is the link.
