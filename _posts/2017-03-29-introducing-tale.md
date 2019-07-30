@@ -1,8 +1,9 @@
 ---
 title: Introducing Tale
 date: 2017-03-29 00:00:00 Z
-layout: post
+published: false
 author: Chester
+layout: post
 ---
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
