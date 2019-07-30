@@ -10,7 +10,7 @@ collections:
     output: true
 description: Blog for Pladio website
 url: blog.pladio.co
-baseurl: "/tale"
+baseurl: 
 google_analytics: UA—XXXXXXXX-X
 author:
   name: Pladio
