@@ -1,5 +1,5 @@
 ---
-title: Tale
+title: PlaDio
 timezone: UTC
 collections:
   posts:
@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 description: Blog for Pladio website
-baseurl: "/tale"
 url: https://blog.pladio.co
+baseurl: "/tale"
 google_analytics: UA—XXXXXXXX-X
 author:
   name: Pladio
