@@ -9,12 +9,12 @@ collections:
     title: Uploads
     output: true
 description: Blog for Pladio website
-url: https://blog.pladio.co
+url: blog.pladio.co
 baseurl: "/tale"
 google_analytics: UA—XXXXXXXX-X
 author:
   name: Pladio
-  url: https://blog.pladio.co
+  url: https://pladio.co
   email: sales@pladio.co
 markdown: kramdown
 include:
