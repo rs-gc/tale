@@ -26,6 +26,7 @@ plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-seo-tag
+- jekyll-sitemap
 permalink: "/:year-:month-:day/:title"
 paginate: 5
 exclude:
