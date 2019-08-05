@@ -10,7 +10,7 @@ tags:
 
 Pladio came to the market with the tagline of making the people more productive by providing tools for the users to hear articles rather than reading something.
 
-
+![Screenshot 2019-08-06 at 12.58.38 AM.png](/uploads/Screenshot%202019-08-06%20at%2012.58.38%20AM.png)
 
 According to the stats, the average person spends more time reading some sort of articles rather than doing some actual work.
 
