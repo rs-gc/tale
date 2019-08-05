@@ -11,7 +11,7 @@ collections:
 description: Blog for Pladio website
 url: blog.pladio.co
 baseurl: 
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-73349527-7
 author:
   name: Pladio
   url: https://pladio.co
