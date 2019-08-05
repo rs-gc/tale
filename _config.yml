@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 description: Blog for Pladio website
-url: blog.pladio.co
+url: https://blog.pladio.co
 baseurl: 
 google_analytics: UA-73349527-7
 author:
