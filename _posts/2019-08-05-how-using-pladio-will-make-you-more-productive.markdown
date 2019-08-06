@@ -43,7 +43,7 @@ If you like our idea feel free to reach us at [sales@pladio.co](sales@pladio.co)
 After launching the app we received a few good reviews on the play store, that we want to share:
 
 
-> Hi pladio team Thanks for this awesome app. After using this app I am saving hours of time daily. Plus this has done wonders on my eye health. Just facing a small issue, after closing the app, the audio player has to be stopped automatically. I believe there must be an API to do that. Finally, thank...
+> Hi Pladio team Thanks for this awesome app. After using this app I am saving hours of time daily. Plus this has done wonders on my eye health. Just facing a small issue, after closing the app, the audio player has to be stopped automatically. I believe there must be an API to do that. Finally, thanks for saving my eyes! Cheers
 
 
 **~ Shikhar Dhing**
