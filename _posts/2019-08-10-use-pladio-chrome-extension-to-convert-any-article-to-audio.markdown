@@ -1,14 +1,13 @@
 ---
 title: Use Pladio Chrome Extension to convert any article to audio
 date: 2019-08-10 22:21:00 Z
-image: "/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png"
 ---
 
 Now, you can convert any text on the chrome to audio using our chrome extension.
 
 ***
 
-
+![Screenshot 2019-08-11 at 3.27.46 AM.png](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png)
 
 ***
 
