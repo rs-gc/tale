@@ -18,3 +18,7 @@ The Pladio Android app contains a lot of categories and each day, we keep on add
 ## Hear the content later added from the chrome extension
 
 ## Read and Hear the words at the same time
+
+** Regards **
+
+** Team Pladio **
