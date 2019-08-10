@@ -25,7 +25,8 @@ Our subtitle service will help you solve the retention issues as well. You can e
 
 ***
 
-![Subtitle feature in Pladio App](/uploads/Screenshot%202019-08-11%20at%203.35.55%20AM.png)
+<img src="/uploads/Screenshot%202019-08-11%20at%203.35.55%20AM.png" alt="Kitten"
+	title="Subtitle feature in Pladio App" width="400" height="auto" />
 
 ***
 
