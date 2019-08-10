@@ -11,7 +11,7 @@ Now, you can convert any text on the chrome to audio using our chrome extension.
 
 ***
 
-Just get the chrome extension from the following [link.](https://chrome.google.com/webstore/detail/pladio/bgecfahjghhjiddinkiolpanfkpdfhco)
+You can get the chrome extension from the following [link.](https://chrome.google.com/webstore/detail/pladio/bgecfahjghhjiddinkiolpanfkpdfhco)
 
 ## What are the features of the chrome extension
 
