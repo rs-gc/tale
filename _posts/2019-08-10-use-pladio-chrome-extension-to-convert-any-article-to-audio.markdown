@@ -7,7 +7,7 @@ Now, you can convert any text on the chrome to audio using our chrome extension.
 
 ***
 
-![Screenshot 2019-08-11 at 3.27.46 AM.png](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png)
+![Screenshot 2019-08-11 at 3.27.46 AM.png](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png){: width=600 height=400}
 
 ***
 
