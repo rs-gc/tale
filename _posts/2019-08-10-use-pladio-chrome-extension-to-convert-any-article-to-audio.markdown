@@ -7,7 +7,9 @@ Now, you can convert any text on the chrome to audio using our chrome extension.
 
 ***
 
+<div style="width:200px; height:100px">
 ![Pladio Chrome Extension Image](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png){: width=200 height=400}
+</div>
 
 ***
 
