@@ -7,7 +7,7 @@ Now, you can convert any text on the chrome to audio using our chrome extension.
 
 ***
 
-![Screenshot 2019-08-11 at 3.27.46 AM.png](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png){: width=600 height=400}
+![Pladio Chrome Extension Image](/uploads/Screenshot%202019-08-11%20at%203.27.46%20AM.png){: width=600 height=400}
 
 ***
 
@@ -23,7 +23,11 @@ Researchers believe that your retention power can drastically increase if are he
 
 Our subtitle service will help you solve the retention issues as well. You can easily follow the words along as they pop up on the screen.
 
-![Screenshot 2019-08-11 at 3.35.55 AM.png](/uploads/Screenshot%202019-08-11%20at%203.35.55%20AM.png)
+***
+
+
+
+***
 
 ## How our chrome extension works
 
