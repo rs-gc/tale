@@ -46,7 +46,7 @@ After launching the app we received a few good reviews on the play store, that w
 > Hi Pladio team Thanks for this awesome app. After using this app I am saving hours of time daily. Plus this has done wonders on my eye health. Just facing a small issue, after closing the app, the audio player has to be stopped automatically. I believe there must be an API to do that. Finally, thanks for saving my eyes! Cheers
 
 
-**~ Shikhar Dhing**
+**~ By Shikhar Dhing**
 
 
 Thanks, Shikhar for the sharing the valuable review with us. Please check the app out and let us know what you think about it.
