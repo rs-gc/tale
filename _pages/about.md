@@ -3,6 +3,7 @@ title: About
 permalink: "/about/"
 author: Pladio
 layout: post
+published: false
 ---
 
 We want to make people more **productive** by allowing them to do multiple things at the same time.
