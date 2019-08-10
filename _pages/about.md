@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about/"
+published: false
 author: Pladio
 layout: post
 ---

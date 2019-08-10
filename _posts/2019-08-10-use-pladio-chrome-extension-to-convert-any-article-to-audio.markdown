@@ -52,5 +52,6 @@ Also, if you liked the product, feel free to give a 5-star rating on the play st
 
 Also, please share this product as much as possible.
 
-Regards
-Team Pladio
+**Regards**
+
+**Team Pladio**
