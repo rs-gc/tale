@@ -20,4 +20,5 @@ Our chrome extension can be downloaded using [this link.](https://chrome.google.
 We still are figuring a lot of stuff out. You can ping us anytime. We will be happy to help.
 
 Regards
+
 Team Pladio
