@@ -17,7 +17,7 @@ You can get the chrome extension from the following [link.](https://chrome.googl
 
 We came out with the simplest feature that aligns with the vision that we have for our users.
 
-We want our users to be able to hear anything they are reading. Our first step toward achieving that goal is to make the users at least hear the web pages that they are watching every day.
+We want our users to be able to hear anything they are reading. Our first step toward achieving that goal is to make the users at least hear the web pages that they are reading every day.
 
 Researchers believe that your retention power can drastically increase if are hearing something along with reading it.
 
@@ -40,7 +40,7 @@ Before saving anything you will have to log in so that we can find out who this 
 
 Once you save the page, we get the request and start converting the page to audio, it generally takes no more than 2 minutes to complete that task.
 
-Once done you can see the article popping up in the library section of the Android app.
+Once done you can see the article popping up in the library section of the [Android app.](https://play.google.com/store/apps/details?id=co.pladio.android)
 
 ## Future Plans
 
