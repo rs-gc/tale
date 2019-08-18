@@ -12,7 +12,7 @@ tags:
 Key: 
 ---
 
-Earlier this week, one of our developer came to know that some of the bad code was pushed to the main code of the chrome extension. That code was published to the production and to stop users from getting the bad experience, we decided to unpublish the chrome extension.
+Earlier this week, one of our developers came to know that some of the bad code was pushed to the main code of the chrome extension. That code was published to the production and to stop users from getting the bad experience, we decided to unpublish the chrome extension.
 
 **What was the chrome extension issue**
 
