@@ -34,7 +34,9 @@ We are still not sure about the Redis issue. Most probably it happened because o
 
 **Number of users gained:** 3
 
-We are building a small feature before moving toward full marketing and sharing it over different channels.
+We are building a small feature before moving toward the next phase of the company. This feature will allow you to read the articles that you have saved using the chrome extension in the Pladio Library.
+
+We are closer toward getting the web app for the common users. This will help users who don't want to download the android app or don't have an android device.
 
 Thanks for reading. We will get back with the new numbers next week.
 
