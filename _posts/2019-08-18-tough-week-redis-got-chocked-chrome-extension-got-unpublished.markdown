@@ -28,6 +28,8 @@ On Sunday, the users were not able to use any of our clients because of the foll
 
 We are still not sure about the Redis issue. Most probably it happened because of snapshot file becoming so big that it started refusing any of the incoming requests from the main server and as the main server is dependent upon redis to work properly no response was going to our clients.
 
+[Here is the link](https://stackoverflow.com/questions/19581059/misconf-redis-is-configured-to-save-rdb-snapshots) which will help you to know more.
+
 **Redis issue is fixed now but we are still waiting for the manual review in the case of chrome extension.**
 
 ## This week numbers
