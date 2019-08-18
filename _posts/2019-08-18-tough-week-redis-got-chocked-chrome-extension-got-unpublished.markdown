@@ -22,9 +22,9 @@ Our chrome extension takes some time to publish because of some permissions that
 
 We are trying to take these permissions away as we are not making any use of them.
 
-On Sunday, the users were not able to use any of our clients because of the following redis issue.
-
 **Redis issue**
+
+On Sunday, the users were not able to use any of our clients because of the following redis issue.
 
 We are still not sure about the Redis issue. Most probably it happened because of snapshot file becoming so big that it started refusing any of the incoming requests from the main server and as the main server is dependent upon redis to work properly no response was going to our clients.
 
