@@ -16,7 +16,7 @@ Earlier this week, one of our developers came to know that some of the bad code 
 
 **What was the chrome extension issue**
 
-The code which was hitting the main API was changed to hit the `localhost` in the for some testing. After successful testing, this localhost code was converted to ZIP and published to the production chrome extension.
+The code which was hitting the main API was changed to hit the `localhost` for some testing. After successful testing, this `localhost` code was converted to ZIP and published to the production chrome extension.
 
 Our chrome extension takes some time to publish because of some permissions that we require to function properly. Therefore, it goes through the manual review.
 
