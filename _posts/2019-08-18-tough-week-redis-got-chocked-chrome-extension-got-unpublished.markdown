@@ -32,7 +32,7 @@ We are still not sure about the Redis issue. Most probably it happened because o
 
 ## This week numbers
 
-**Number of users gained:** 3
+`Number of users gained: 3`
 
 We are building a small feature before moving toward the next phase of the company. This feature will allow you to read the articles that you have saved using the chrome extension in the Pladio Library.
 
