@@ -1,5 +1,5 @@
 ---
-title: Tough week | Redis got chocked | Chrome Extension got unpublished
+title: Tough week | Redis got chocked | Chrome Extension brought down
 date: 2019-08-18 11:09:00 Z
 categories:
 - Product
